@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri-node-app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richt2566/liri-node-app.git"
+  },
+  "author": "Rich Tranter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richt2566/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Richt2566/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
